@@ -1,4 +1,7 @@
+<<<<<<< HEAD
 Coucou
 Je refais un test !
+=======
+>>>>>>> Rbranche
 
 Hello World!!!
